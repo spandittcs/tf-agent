@@ -2,7 +2,7 @@ variable "function_name" {
 
   type = string
 
-  default = "demo-function"
+  default = "upgraded-function"
 
 }
 
@@ -10,7 +10,7 @@ variable "location" {
 
   type = string
 
-  default = "East US"
+  default = "Central US"
 
 }
 
