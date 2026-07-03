@@ -1,3 +1,5 @@
-output "app_name" {
-  value = "sample-function-app"
+output "function_app_name" {
+
+  value = var.function_name
+
 }
